@@ -1,5 +1,3 @@
-# Finacial
-
 このリポジトリは、Streamlitを使用して資産運用のモンテカルロシミュレーションを行うPythonアプリケーションを格納しています。ユーザーは資産配分、収支、突発イベントなどを入力し、将来の資産推移やキャッシュフローを視覚化できます。
 
 ## プロジェクトの概要
@@ -107,3 +105,4 @@ README.md：このドキュメント。
 メール：[msykymgch0621@gmail.com (mailto:msykymgch0621@gmail.com)]
 
 Happy simulating! 
+
